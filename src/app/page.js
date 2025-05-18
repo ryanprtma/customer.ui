@@ -24,7 +24,7 @@ export default function Home() {
 
                 <CustomerSummaryChart
                     apiUrl="https://customerapi-production-62ad.up.railway.app/api/customers/summary/digital-interest"
-                    chartTitle="Customer Summary by Brand Device"
+                    chartTitle="Customer Summary by Digital Interest"
                 />
             </div>
         </div>
